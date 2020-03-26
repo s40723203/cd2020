@@ -75,9 +75,9 @@ Created by [四設計二乙-40723203-林家宜
 * week1 建立個人倉儲cd2020
 * week2 將Python3.7.3更新至Python3.8.2
 * Assignment 1
-* 
-* 
-* 
+*
+*
+
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -329,12 +329,7 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200326151529.1"># Week6~9
 
-* 
-* 
-* 
-* 
-* 
-* 
+*
 
 </t>
 </tnodes>
