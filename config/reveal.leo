@@ -21,9 +21,11 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>每週進度1~5</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20200326151529.1"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200326152349.1"><vh>每週進度6~9</vh>
+<v t="leo.20200326152349.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -327,9 +329,23 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200326151529.1"># Week6~9
+<t tx="leo.20200326152349.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200326152349.2"># Week6~9
 
 *
+*
+*
+*
+*
+
 
 </t>
 </tnodes>
