@@ -76,8 +76,8 @@ Created by [四設計二乙-40723203-林家宜
 
 * week1 建立個人倉儲cd2020
 * week2 將Python3.7.3更新至Python3.8.2
-* Assignment 1
-*
+* week3Assignment 1
+* week5進度報告
 *
 
 
@@ -340,6 +340,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200326152349.2"># Week6~9
 
+* week6 下載OBS和進度報告
+* week7 Assignment 2
+* week8 更新V-rep和以鍵盤控制四輪車
 *
 *
 *
