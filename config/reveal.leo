@@ -23,8 +23,10 @@
 </v>
 <v t="leo.20180902120523.11"><vh>每週進度1~5</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20200624004520.1"><vh>投影片快捷鍵</vh></v>
 <v t="leo.20200624004000.1"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624004822.1"><vh>每週進度1~5</vh>
+<v t="leo.20200624004822.3"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200326152349.1"><vh>每週進度6~9</vh>
 <v t="leo.20200326152349.2"><vh>投影片快捷鍵</vh></v>
@@ -398,7 +400,16 @@ make.start()
 
 
 </t>
-<t tx="leo.20200624004520.1"># Week1 Video
+<t tx="leo.20200624004822.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624004822.3"># Week1 Video
 
 &lt;iframe src="https://www.youtube.com/watch?v=G0QF1s-XpHY&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
