@@ -618,7 +618,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20200624010830.2">#W 15分組協同
+<t tx="leo.20200624010830.2"># Week15 分組協同
 
 [分組網站](http://mde.tw/cdbw15-2/content/index.html)
 
