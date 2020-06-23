@@ -30,10 +30,8 @@
 <v t="leo.20200624003050.1"><vh>每週進度10~14</vh>
 <v t="leo.20200624003050.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200624002425.1"><vh>每週進度15~18</vh>
-<v t="leo.20200624002425.2"><vh>導入縮排程式碼</vh>
-<v t="leo.20200624002425.3"><vh>引用程式碼</vh></v>
-</v>
+<v t="leo.20200624003649.1"><vh>每週進度15~18</vh>
+<v t="leo.20200624003649.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200624001933.1"><vh>各式內容引用範例</vh>
 <v t="leo.20200624001933.2"><vh>導入數學符號與方程式</vh>
@@ -354,51 +352,6 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20200624002425.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200624002425.2"># Week15~18
-
-* 進行分組協同
-* IPv6 Ubuntu對外連線設定
-* 完成Final project
-* 
-*
-*
-*
-
-
-</t>
-<t tx="leo.20200624002425.3">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
 <t tx="leo.20200624003050.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -415,6 +368,23 @@ make.start()
 * 完成Assignment 3
 * IPv4 Ubuntu對外連線設定
 * 設定IPv4遠端控制
+
+
+</t>
+<t tx="leo.20200624003649.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624003649.2"># Week15~18
+
+* 進行分組協同
+* IPv6 Ubuntu對外連線設定
+* 完成Final project
 
 
 </t>
