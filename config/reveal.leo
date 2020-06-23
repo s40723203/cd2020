@@ -27,14 +27,56 @@
 <v t="leo.20200624004822.1"><vh>W1影片</vh>
 <v t="leo.20200624004822.3"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624005858.1"><vh>W2影片</vh>
+<v t="leo.20200624005858.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624005902.1"><vh>A1</vh>
+<v t="leo.20200624005902.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010058.1"><vh>W5影片</vh>
+<v t="leo.20200624010058.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20200326152349.1"><vh>每週進度6~9</vh>
 <v t="leo.20200326152349.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010141.1"><vh>W6影片</vh>
+<v t="leo.20200624010141.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010353.1"><vh>A2</vh>
+<v t="leo.20200624010353.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010144.1"><vh>W7影片</vh>
+<v t="leo.20200624010144.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010148.1"><vh>W8影片</vh>
+<v t="leo.20200624010148.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200624003050.1"><vh>每週進度10~14</vh>
 <v t="leo.20200624003050.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624010438.1"><vh>W10影片</vh>
+<v t="leo.20200624010438.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010443.1"><vh>W11影片</vh>
+<v t="leo.20200624010443.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010446.1"><vh>W12影片</vh>
+<v t="leo.20200624010446.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010448.1"><vh>W13影片</vh>
+<v t="leo.20200624010448.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010506.1"><vh>W14影片</vh>
+<v t="leo.20200624010506.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20200624003649.1"><vh>每週進度15~18</vh>
 <v t="leo.20200624003649.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010830.1"><vh>W15</vh>
+<v t="leo.20200624010830.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624010949.1"><vh>W17FP</vh>
+<v t="leo.20200624010949.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200624001933.1"><vh>各式內容引用範例</vh>
 <v t="leo.20200624001933.2"><vh>導入數學符號與方程式</vh>
@@ -87,10 +129,6 @@ Created by [四設計二乙-40723203-林家宜
 * 將Python3.7.3更新至Python3.8.2
 * 完成Assignment 1
 * 進度報告
-
-&lt;small&gt;
-[Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
-&lt;small&gt;
 
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -408,5 +446,201 @@ make.start()
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G0QF1s-XpHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
+<t tx="leo.20200624005858.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624005858.2"># Week2 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lLHSsS44UyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624005902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624005902.2">#Assignment 1
+
+&lt;small&gt;
+[Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
+&lt;small&gt;</t>
+<t tx="leo.20200624010058.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010058.2"># Week5 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fe9X6PGFgLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010141.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010141.2"># Week6 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Pke8nO9kVsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010144.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010144.2"># Week7 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PEoea5fIM2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010148.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010148.2"># Week8 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tq3dRWQo3p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010353.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010353.2">#Assignment 2
+
+&lt;small&gt;
+[Assignment 2](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment2/Assignment2-%E7%B5%B1%E6%95%B4.pdf)
+&lt;small&gt;</t>
+<t tx="leo.20200624010438.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010438.2"># Week10 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XCsfhRGL4e8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010443.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010443.2"># Week11 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3MO9vGDg6yA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010446.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010446.2"># Week12 分組協同
+
+&lt;small&gt;
+[分組網站](http://mde.tw/cdbw12-2/content/index.html)
+&lt;small&gt;
+
+&lt;small&gt;
+[分組倉儲](https://github.com/mdecourse/cdbw12-2)
+&lt;small&gt;
+</t>
+<t tx="leo.20200624010448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010448.2"># Week13 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FMCSJ5hP7xY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010506.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010506.2"># Week14 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UvHS0yvtJbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200624010830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010830.2">#W15分組協同
+
+&lt;small&gt;
+[分組網站](http://mde.tw/cdbw15-2/content/index.html)
+&lt;small&gt;
+
+&lt;small&gt;
+[分組倉儲](https://github.com/mdecourse/cdbw15-2)
+&lt;small&gt;</t>
+<t tx="leo.20200624010949.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624010949.2"># Final Project
+
+&lt;small&gt;
+[Final Project](https://github.com/s40723203/cd2020/blob/master/downloads/Final%20Project/Final%20Project.pdf)
+&lt;small&gt;</t>
 </tnodes>
 </leo_file>
