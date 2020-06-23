@@ -88,8 +88,6 @@ Created by [四設計二乙-40723203-林家宜
 * 完成Assignment 1
 * 進度報告
 
-# Assignment 1
-
 &lt;small&gt;
 [Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
 &lt;small&gt;
@@ -407,8 +405,7 @@ make.start()
 </t>
 <t tx="leo.20200624004822.3"># Week1 Video
 
-&lt;iframe src="https://www.youtube.com/watch?v=G0QF1s-XpHY&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G0QF1s-XpHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
