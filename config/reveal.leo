@@ -27,10 +27,8 @@
 <v t="leo.20200326152349.1"><vh>每週進度6~9</vh>
 <v t="leo.20200326152349.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>每週進度10~14</vh>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
-</v>
+<v t="leo.20200624003050.1"><vh>每週進度10~14</vh>
+<v t="leo.20200624003050.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200624002425.1"><vh>每週進度15~18</vh>
 <v t="leo.20200624002425.2"><vh>導入縮排程式碼</vh>
@@ -87,54 +85,9 @@ Created by [四設計二乙-40723203-林家宜
 * 建立個人倉儲cd2020
 * 將Python3.7.3更新至Python3.8.2
 * 完成Assignment 1
-*進度報告
+* 進度報告
 
 
-</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180902120523.16"># Week10~14(W12開始進行分組協同)
-
-* 建立Google API+專案
-* 設置Vrep虛擬主機板
-* 完成Assignment 3
-* IPv4 Ubuntu對外連線設定
-*設定IPv4遠端控制
-*
-*
-
-
-</t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -321,9 +274,6 @@ vertical: body pane on the botton</t>
 * 完成Assignment 2
 * 利用Google進行直播
 * 更新V-rep和以鍵盤控制四輪車
-*
-*
-*
 
 
 </t>
@@ -448,6 +398,25 @@ def domake():
 make = threading.Thread(target=domake)
 make.start()
 ```
+</t>
+<t tx="leo.20200624003050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624003050.2">#  Week10~14(W12開始進行分組協同)
+
+* 建立Google API+專案
+* 設置Vrep虛擬主機板
+* 完成Assignment 3
+* IPv4 Ubuntu對外連線設定
+* 設定IPv4遠端控制
+
+
 </t>
 </tnodes>
 </leo_file>
