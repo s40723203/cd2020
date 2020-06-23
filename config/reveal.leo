@@ -625,9 +625,7 @@ make.start()
 
 &lt;small&gt;
 [分組網站](http://mde.tw/cdbw15-2/content/index.html)
-&lt;small&gt;
 
-&lt;small&gt;
 [分組倉儲](https://github.com/mdecourse/cdbw15-2)
 &lt;small&gt;</t>
 <t tx="leo.20200624010949.1">&lt;section data-markdown&gt;
@@ -653,10 +651,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20200624011630.2"># Assignment 
+<t tx="leo.20200624011630.2"># Assignment 3
 
-&lt;small&gt;
 [Assignment 3](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment3/Assignment%203-%E7%B5%B1%E6%95%B4.pdf)
-&lt;small&gt;</t>
+</t>
 </tnodes>
 </leo_file>
