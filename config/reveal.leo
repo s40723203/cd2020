@@ -23,9 +23,8 @@
 </v>
 <v t="leo.20180902120523.11"><vh>每週進度1~5</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20200624004000.1"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200624004822.1"><vh>每週進度1~5</vh>
+<v t="leo.20200624004822.1"><vh>W1影片</vh>
 <v t="leo.20200624004822.3"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20200326152349.1"><vh>每週進度6~9</vh>
@@ -89,6 +88,11 @@ Created by [四設計二乙-40723203-林家宜
 * 完成Assignment 1
 * 進度報告
 
+# Assignment 1
+
+&lt;small&gt;
+[Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
+&lt;small&gt;
 
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -389,14 +393,6 @@ make.start()
 * 進行分組協同
 * IPv6 Ubuntu對外連線設定
 * 完成Final project
-
-
-</t>
-<t tx="leo.20200624004000.1"># Assignment 1
-
-&lt;small&gt;
-[Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
-&lt;small&gt;
 
 
 </t>
