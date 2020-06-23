@@ -473,9 +473,8 @@ make.start()
 </t>
 <t tx="leo.20200624005902.2"># Assignment 1
 
-&lt;small&gt;
 [Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
-&lt;small&gt;</t>
+</t>
 <t tx="leo.20200624010058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -539,9 +538,8 @@ make.start()
 </t>
 <t tx="leo.20200624010353.2"># Assignment 2
 
-&lt;small&gt;
 [Assignment 2](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment2/Assignment2-%E7%B5%B1%E6%95%B4.pdf)
-&lt;small&gt;</t>
+</t>
 <t tx="leo.20200624010438.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -579,11 +577,10 @@ make.start()
 </t>
 <t tx="leo.20200624010446.2"># Week12 分組協同
 
-&lt;small&gt;
 [分組網站](http://mde.tw/cdbw12-2/content/index.html)
 
 [分組倉儲](https://github.com/mdecourse/cdbw12-2)&lt;small&gt;
-&lt;small&gt;
+
 
 </t>
 <t tx="leo.20200624010448.1">&lt;section data-markdown&gt;
@@ -621,13 +618,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20200624010830.2">#W15分組協同
+<t tx="leo.20200624010830.2">#W 15分組協同
 
-&lt;small&gt;
 [分組網站](http://mde.tw/cdbw15-2/content/index.html)
 
 [分組倉儲](https://github.com/mdecourse/cdbw15-2)
-&lt;small&gt;</t>
+</t>
 <t tx="leo.20200624010949.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -639,9 +635,8 @@ make.start()
 </t>
 <t tx="leo.20200624010949.2"># Final Project
 
-&lt;small&gt;
 [Final Project](https://github.com/s40723203/cd2020/blob/master/downloads/Final%20Project/Final%20Project.pdf)
-&lt;small&gt;</t>
+</t>
 <t tx="leo.20200624011630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
