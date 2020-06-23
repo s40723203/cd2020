@@ -60,6 +60,9 @@
 <v t="leo.20200624010443.1"><vh>W11影片</vh>
 <v t="leo.20200624010443.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624011630.1"><vh>A3</vh>
+<v t="leo.20200624011630.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20200624010446.1"><vh>W12影片</vh>
 <v t="leo.20200624010446.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -441,7 +444,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20200624004822.3"># Week1 Video-1
+<t tx="leo.20200624004822.3"># Week1 Video
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G0QF1s-XpHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -468,7 +471,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20200624005902.2">#Assignment 1
+<t tx="leo.20200624005902.2"># Assignment 1
 
 &lt;small&gt;
 [Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
@@ -534,7 +537,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20200624010353.2">#Assignment 2
+<t tx="leo.20200624010353.2"># Assignment 2
 
 &lt;small&gt;
 [Assignment 2](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment2/Assignment2-%E7%B5%B1%E6%95%B4.pdf)
@@ -578,11 +581,10 @@ make.start()
 
 &lt;small&gt;
 [分組網站](http://mde.tw/cdbw12-2/content/index.html)
+
+[分組倉儲](https://github.com/mdecourse/cdbw12-2)&lt;small&gt;
 &lt;small&gt;
 
-&lt;small&gt;
-[分組倉儲](https://github.com/mdecourse/cdbw12-2)
-&lt;small&gt;
 </t>
 <t tx="leo.20200624010448.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -641,6 +643,20 @@ make.start()
 
 &lt;small&gt;
 [Final Project](https://github.com/s40723203/cd2020/blob/master/downloads/Final%20Project/Final%20Project.pdf)
+&lt;small&gt;</t>
+<t tx="leo.20200624011630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624011630.2"># Assignment 
+
+&lt;small&gt;
+[Assignment 3](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment3/Assignment%203-%E7%B5%B1%E6%95%B4.pdf)
 &lt;small&gt;</t>
 </tnodes>
 </leo_file>
