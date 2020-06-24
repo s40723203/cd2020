@@ -159,6 +159,43 @@ img.add_border {
 <p><big>課堂上進行分組協同cdbw15-2<big></big></big></p>
 <p>分組網站:<a href="http://mde.tw/cdbw15-2/content/index.html">http://mde.tw/cdbw15-2/content/index.html</a></p>
 <p>分組倉儲:<a href="https://github.com/mdecourse/cdbw15-2">https://github.com/mdecourse/cdbw15-2</a></p>
+<p><big><big>week16<big></big></big></big></p>
+<p><big>IPv6 Ubuntu對外連線設定&amp;連線個人倉儲<strong>(使用校內電腦)</strong><big></big></big></p>
+<p><big>Ubuntu對外連線設定<big></big></big></p>
+<p>將虛擬主機裡喜好設定中的網路選項，勾選IPv6的選項</p>
+<p>設定中的網路設為NAT Network</p>
+<p>啟動後輸入密碼，開啟LXTrmial</p>
+<p>依序輸入cd etc，cd apt cd apt.conf.d</p>
+<p>輸入sudo vi proxy.conf，按I編輯</p>
+<p>輸入Acquire::http::Proxy "http://[proxy設定碼]:3128";，完成後儲存</p>
+<p>輸入sudo apt update</p>
+<p><span>輸入sudo apt install net-tools</span></p>
+<p><span>輸入cd netplan 以設定對外連線</span></p>
+<p><span>輸入sudo vi 00-installer-config.yaml編輯成以下圖片所示</span></p>
+<p><span></span></p>
+<p>輸入IPv4和<span>IPv6</span>埠號</p>
+<p><span><em>*IPv4:和設定IPv4對外連接的埠號一樣</em></span></p>
+<p><em>*IPv6:主體IP為[2001:288:6004:17:2020:2:72XX]；客體IP為各台電腦埠號</em></p>
+<p>路徑設至tmp，輸入sudo vi <span>oauth_scrum.txt</span></p>
+<p><span>內容自訂，完成後儲存</span></p>
+<p><span>進入cd2020pj1，輸入sudo vi wsgi.py以編輯近端host</span></p>
+<p><span>改為IPv6的客體IP並儲存</span></p>
+<p><span></span></p>
+<p><big>連線個人倉儲<big></big></big></p>
+<p>將網路設定成[2001:288:6004:17:2020:2:72XX]</p>
+<p><em>2:乙班</em>  <em> XX:學號末兩碼</em></p>
+<p>開啟虛擬主機，密碼為kmol2020</p>
+<p>開啟<span>Lxterminal，將路徑設至tmp</span></p>
+<p><span>git clone 自己的倉儲</span></p>
+<p><span>完成後路徑設至cd2020的cmsimde</span></p>
+<p><span>輸入sudo vi wsgi.py，按i以編輯</span></p>
+<p><span>將host改為IPv6的客體IP，完成後按ESC並輸入:wq以儲存</span></p>
+<p><span>輸入python3 wsgi.py以開啟近端</span></p>
+<p><span>至瀏覽器輸入網址"https://[2001:288:6004:17:2020:2:0:72XX]:19443"</span></p>
+<p><big><big>week17<big><big></big></big></big></big></p>
+<p>完成Final project和期末影片</p>
+<p><span>Final project連結:<a href="https://github.com/s40723203/cd2020/blob/master/downloads/Final%20Project/Final%20Project.pdf">https://github.com/s40723203/cd2020/blob/master/downloads/Final%20Project/Final%20Project.pdf</a></span></p>
+<p><span>影片網址:</span></p>
 <br />WEEK10~14 << <a href='WEEK10~14.html'>Previous</a> <a href='Assignment.html'>Next</a> >> Assignment</div>
         
     <!-- footer -->
