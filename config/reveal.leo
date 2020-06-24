@@ -472,8 +472,9 @@ make.start()
 						
 </t>
 <t tx="leo.20200624005902.2"># Assignment 1
-
 [Assignment 1](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment1/Assignment%201-%E7%B5%B1%E6%95%B4.pdf)
+
+&lt;iframe src="https://drive.google.com/file/d/1H8mFRI5ft41C-6XafMPnPt3RKa5Q0976/preview" width="640" height="480"&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200624010058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -537,9 +538,9 @@ make.start()
 						
 </t>
 <t tx="leo.20200624010353.2"># Assignment 2
-
 [Assignment 2](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment2/Assignment2-%E7%B5%B1%E6%95%B4.pdf)
-</t>
+
+&lt;iframe src="https://drive.google.com/file/d/1N3bxs2muDlMxYjavzHKW7tI0BUHOVzxM/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624010438.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -647,8 +648,8 @@ make.start()
 						
 </t>
 <t tx="leo.20200624011630.2"># Assignment 3
-
 [Assignment 3](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment3/Assignment%203-%E7%B5%B1%E6%95%B4.pdf)
-</t>
+
+&lt;iframe src="https://drive.google.com/file/d/1eZsIIyOhIwzoZkOwwpdqCE9stprrKCUZ/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
