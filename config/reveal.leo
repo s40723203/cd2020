@@ -315,7 +315,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200326152349.2"># Week6~9
 
-* 下載OBS和進度報告w6
+* 下載OBS和進度報告
 * 完成Assignment 2
 * 利用Google進行直播
 * 更新V-rep和以鍵盤控制四輪車
