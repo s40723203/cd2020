@@ -78,6 +78,9 @@
 <v t="leo.20200624010830.1"><vh>W15</vh>
 <v t="leo.20200624010830.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624163904.1"><vh>W16</vh>
+<v t="leo.20200624163904.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20200624010949.1"><vh>W17FP</vh>
 <v t="leo.20200624010949.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -651,5 +654,18 @@ make.start()
 [Assignment 3](https://github.com/s40723203/cd2020/blob/master/downloads/Assignment3/Assignment%203-%E7%B5%B1%E6%95%B4.pdf)
 
 &lt;iframe src="https://drive.google.com/file/d/1eZsIIyOhIwzoZkOwwpdqCE9stprrKCUZ/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624163904.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624163904.2"># Week16 Video
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SGFYSCz-HDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
