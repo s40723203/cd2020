@@ -635,9 +635,9 @@ make.start()
 						
 </t>
 <t tx="leo.20200624010949.2"># Final Project
-
 [Final Project](https://github.com/s40723203/cd2020/blob/master/downloads/Final%20Project/Final%20Project.pdf)
-</t>
+
+&lt;iframe src="https://drive.google.com/file/d/1mb3KltmK3Gd6BeUXS23gFkkJnLznznjX/preview" width="640" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624011630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
